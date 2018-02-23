@@ -1,8 +1,8 @@
-Origin: Daniel Repo
-Label: Daniel Repo
+Origin: daniel63194's Repo
+Label: daniel63194's repo
 Suite: stable
-Version: 1.0
+Version: 2.0
 Codename: daniel63194repo
 Architectures: iphoneos-arm
 Components: main
-Description: Daniel Cydia Repo
+Description: daniel63194 Cydia Repo
