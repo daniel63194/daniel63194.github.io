@@ -24,7 +24,7 @@ var template = ' \
 ' + content + '\
 </div> \
 <hr> \
-<h3><a href="https://twitter.com/daniel63194/" target="_blank">My Twitter: H6nry_</a><br> \
+<h3><a href="https://twitter.com/daniel63194/" target="_blank">My Twitter: daniel63194</a><br> \
 <a href="https://github.com/daniel63194/" target="_blank">My Github: daniel63194</a><br> \
 </td> \
 \
