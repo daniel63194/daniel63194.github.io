@@ -1,0 +1,15 @@
+Package: NoShutdownPlease
+Version: 0.0.1
+Section: Tweaks
+Maintainer: daniel63194
+Depends: mobilesubstrate
+Provides: com.daniel63194.noshutdownplease
+Architecture: iphoneos-arm
+Filename: Files/noshutdownplease/NoShutdownPlease.deb
+Size: 4788
+Installed-Size: 40
+MD5sum: 7FE4C3B291A398493D2F85AE12FA786A
+Description: Test Tweak
+Name: NoShutdownPlease
+Author: daniel63194
+Depiction: index.html
