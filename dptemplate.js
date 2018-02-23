@@ -8,12 +8,12 @@ var template = ' \
 <link rel="shortcut icon" href=""> \
 <meta name="robots" content="index,follow"> \
 <!--<meta http-equiv="cache-control" content="no-cache">--> \
-<titleDaniel test repo</title> \
+<title >daniel63194\'s repo</title> \
 </head> \
 <body text="#000000" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
  \
 <div align="center" style="background-color:#77ffff"> \
-<h1>Daniel test repo</h1> \
+<h1>daniel63194\'s repo</h1> \
 </div> \
  \
 <div align="center" style="background-color:#FFFFFF;"> \
@@ -24,9 +24,8 @@ var template = ' \
 ' + content + '\
 </div> \
 <hr> \
-<h3><a href="https://twitter.com/H6nry_/" target="_blank">Me on Twitter: H6nry_</a><br> \
-<a href="https://github.com/H6nry/" target="_blank">Me on Github: H6nry</a><br> \
-<a href="http://h6nry.github.io/" target="_blank">My Website</a></h3> \
+<h3><a href="https://twitter.com/daniel63194/" target="_blank">My Twitter: H6nry_</a><br> \
+<a href="https://github.com/daniel63194/" target="_blank">My Github: daniel63194</a><br> \
 </td> \
 \
 </tr> \
